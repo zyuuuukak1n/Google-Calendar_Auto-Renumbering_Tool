@@ -1,0 +1,2 @@
+# Google-Calendar_Auto-Renumbering_Tool
+googleカレンダーのタイトルの連番を自動調整してくれるGAS
